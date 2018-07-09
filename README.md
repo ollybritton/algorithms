@@ -1,6 +1,5 @@
 # algorithms
 A collection of algorithms I have attempted to make in order to improve my programming skills.
-===
 
 ## Sorting
 + Heap Sort, `sorting/heap.py`
